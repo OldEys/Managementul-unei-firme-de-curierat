@@ -11,3 +11,5 @@ Proiectul a fost realizat folosind OracleSQL,un SGBD relațional iar pentru inte
 ### Resurse
 
 În fișierul DOCUMENTATIE.pdf veți regăsi informațiile legate de crearea bazei de date precum diagrama E-R , conceptuală , modelul relațional precum și descrierea tabelelor și a constrângerilor.În fișierul INTERFATA PROIECT se află tot ce ține de realizarea interfeței grafice precum și câteva screenshot-uri cu rezolvarea unor exerciții asupra bazei de date
+
+<img width="455" alt="Image" src="https://github.com/user-attachments/assets/709f6838-6e6f-4843-9199-3244907b4474" />
