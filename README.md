@@ -1,5 +1,7 @@
 # Managementul-unei-firme-de-curierat
 
+<img src="https://github.com/user-attachments/assets/cc89db85-0e57-434e-88d4-7a70f9ab010c" alt="Imagine fundal" width=100% height=500px/>
+
 ### Descriere
 
 Acest proiect reprezintă o bază de date cu rolul de a gestiona activititatea din cadrul unei firme de curierat precum ridicarea coletelor de la furizor , livrarea către client prin intermediul punctelor de ridicare (easybox-uri) și chiar returnarea acestora . Firma deține mai multe sucursale în toată țara ,fiecare având la dispoziție mașini închiriate și curieri angajați care se ocupă de tot procesul de livrare a pachetelor . Proiectul conține de asemenea o interfață grafică prietenoasă pentru a realiza operații CRUD asupra bazei de date. 
