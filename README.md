@@ -5,7 +5,7 @@
 Acest proiect reprezintă o bază de date cu rolul de a gestiona activititatea din cadrul unei firme de curierat precum ridicarea coletelor de la furizor , livrarea către client prin intermediul punctelor de ridicare (easybox-uri) și chiar returnarea acestora . Firma deține mai multe sucursale în toată țara ,fiecare având la dispoziție mașini închiriate și curieri angajați care se ocupă de tot procesul de livrare a pachetelor . Proiectul conține de asemenea o interfață grafică prietenoasă pentru a realiza operații CRUD asupra bazei de date. 
 
 ### Software folosit
-
+`
 Proiectul a fost realizat folosind OracleSQL,un SGBD relațional iar pentru interfața grafică limbajul de programare este C# folosind Windows Forms App (.NET framework extension)
 
 ### Resurse
