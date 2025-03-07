@@ -1,0 +1,17 @@
+bin/
+obj/
+packages/
+TestResults/
+.vscode/
+.idea/
+.vs/
+
+
+*.bak
+*.tmp
+*.ncb
+*.obj
+
+*.ilk
+*.ipdb
+*.iobj
