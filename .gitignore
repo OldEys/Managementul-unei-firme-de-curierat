@@ -1,10 +1,10 @@
-bin/
-obj/
-packages/
-TestResults/
-.vscode/
-.idea/
-.vs/
+*/bin/
+*/obj/
+*/packages/
+*/TestResults/
+*/.vscode/
+*/.idea/
+*/.vs/
 
 
 *.bak
