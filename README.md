@@ -14,6 +14,14 @@ Proiectul a fost realizat folosind OracleSQL,un SGBD relațional iar pentru inte
 
 În fișierul DOCUMENTATIE.pdf veți regăsi informațiile legate de crearea bazei de date precum diagrama E-R , conceptuală , modelul relațional precum și descrierea tabelelor și a constrângerilor.În fișierul INTERFATA PROIECT se află tot ce ține de realizarea interfeței grafice precum și câteva screenshot-uri cu rezolvarea unor exerciții asupra bazei de date
 
+### Rularea interfeței grafice pe propriul dispozitiv
+
+Pentru a folosi aplicația de gestionare a datelor urmați următorii pași :
+* Descărcați codul sursă atașat la cel mai recent release în format .zip sau .tar.gz
+* Extrageți fișierele pe dispozitivul dumneavoastră în locația dorită
+* Localizați fișierul executabil folosind calea următoare : **InterfataProiect/InterfataProiect/bin/Release/InterfataProiect.exe**
+* Executați fișierul respectiv și bucurați-vă de funcționalitatea aplicației
+
 ### Pagina principala a interfetei
 <p align="center">
 <img width="455" alt="Pagina principala" src="https://github.com/user-attachments/assets/709f6838-6e6f-4843-9199-3244907b4474" />
